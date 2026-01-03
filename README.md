@@ -34,15 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dev-vinipontes&show_icons=true&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vinipontes&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎓 Formação Acadêmica
 
 | 🎓 Curso | 🏫 Área |
