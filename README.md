@@ -1,6 +1,5 @@
 <div style="font-family: 'Segoe UI', sans-serif; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 40px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.3); margin: 20px 0; animation: fadeIn 1s ease-in;">
   <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="Avatar" style="width: 120px; height: 120px; border-radius: 50%; border: 5px solid rgba(255,255,255,0.3); margin-bottom: 20px;">
     <h1 style="font-size: 3.5em; margin: 0; background: linear-gradient(45deg, #fff, #e0e6ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">👋 Olá, eu sou Vinic!</h1>
     <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+CjxwYXRoIGQ9Ik0xMiA2djEyaDEyIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=" alt="Full-Stack Developer" style="width: 30px; height: 30px; margin: 10px;">
     <p style="font-size: 1.4em; margin: 10px 0; opacity: 0.9;">Desenvolvedor Full-Stack | Bacharel em Sistemas de Informação</p>
